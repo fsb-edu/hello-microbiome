@@ -2,3 +2,4 @@ kimchi
 sauerkraut
 yoghurt
 natto
+sriracha
