@@ -6,3 +6,5 @@ kombucha
 kefir
 natto
 sriracha
+tempeh
+soy sauce
