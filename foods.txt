@@ -8,3 +8,4 @@ natto
 sriracha
 tempeh
 soy sauce
+cheese
